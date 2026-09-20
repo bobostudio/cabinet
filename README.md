@@ -2,7 +2,7 @@
 
 把一个文件夹里的文件，用 **Jev** 分类后收进对应抽屉。页面按时间记下每一步，历史可以回放，方便录屏。
 
-<video src="区域录制.mp4" controls muted playsinline width="100%"></video>
+![Cabinet 演示](docs/demo.gif)
 
 DeepSeek key 已预留：填写后会先根据文件名拟定中文分类；不填则用默认抽屉。两把钥匙都不填时走演示模式（按扩展名），画面流程完整。
 
